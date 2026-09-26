@@ -60,12 +60,3 @@ src/
 
 The UI is split into focused React components, while Solid-specific data access is isolated in a service module. `App.js` coordinates authentication, navigation state, and user actions rather than containing the full interface implementation.
 
-## Notes
-
-- This repository represents a standalone prototype. The version integrated into the larger project may differ.
-- Solid provider availability and authentication requirements can change over time.
-- No credentials, tokens, or personal Pod data are stored in this repository.
-
-## Portfolio note
-
-Before publishing a work- or university-related repository publicly, verify that you have permission to share the source code and any associated assets.
